@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|c:\\users\\rabhdeepsingh\\source\\repos\\webapi2.api\\webapi2.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|solutionrelative:webapi2.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|c:\\users\\rabhdeepsingh\\source\\repos\\webapi2.api\\webapi2.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|solutionrelative:webapi2.api\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|c:\\users\\rabhdeepsingh\\source\\repos\\webapi2.api\\webapi2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|solutionrelative:webapi2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|c:\\users\\rabhdeepsingh\\source\\repos\\webapi2.api\\webapi2.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|solutionrelative:webapi2.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|c:\\users\\rabhdeepsingh\\source\\repos\\webapi2.api\\webapi2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|solutionrelative:webapi2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|c:\\users\\rabhdeepsingh\\source\\repos\\webapi2.api\\webapi2.api\\logs\\nzwalks_log202403132027.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0EB67412-EAF0-4D9D-AFC1-158BC94BE334}|WebApi2.API\\WebApi2.API.csproj|solutionrelative:webapi2.api\\logs\\nzwalks_log202403132027.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "WebApi2.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "WebApi2.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:23:05.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApi2.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\appsettings.json",
+              "RelativeToolTip": "WebApi2.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-15T12:47:39.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NZWalks_Log202403132027.txt",
+              "DocumentMoniker": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Logs\\NZWalks_Log202403132027.txt",
+              "RelativeDocumentMoniker": "WebApi2.API\\Logs\\NZWalks_Log202403132027.txt",
+              "ToolTip": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Logs\\NZWalks_Log202403132027.txt",
+              "RelativeToolTip": "WebApi2.API\\Logs\\NZWalks_Log202403132027.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-13T14:57:47.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApi2.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "WebApi2.API\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:47:09.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi2.API\\Program.cs",
+              "ToolTip": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Program.cs",
+              "RelativeToolTip": "WebApi2.API\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBJwAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:34:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "WebApi2.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\RABHDEEPSINGH\\source\\repos\\WebApi2.API\\WebApi2.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "WebApi2.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBJwBQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T14:25:20.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+2024-07-19 17:02:10.567 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7087/api/Regions - -
+2024-07-19 17:02:10.683 +05:30 [INF] Executing endpoint 'WebApi2.API.Controllers.RegionsController.GetAll (WebApi2.API)'
+2024-07-19 17:02:10.688 +05:30 [INF] Route matched with {action = "GetAll", controller = "Regions"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetAll() on controller WebApi2.API.Controllers.RegionsController (WebApi2.API).
+2024-07-19 17:02:10.697 +05:30 [INF] Entity Framework Core 6.0.27 initialized 'NZWalksDBContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.27' with options: None
+2024-07-19 17:02:10.740 +05:30 [INF] Executed DbCommand (25ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[Code], [r].[Name], [r].[RegionImageUrl]
+FROM [Regions] AS [r]
+2024-07-19 17:02:10.755 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApi2.API.Models.DTO.RegionDto, WebApi2.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-07-19 17:02:10.763 +05:30 [INF] Executed action WebApi2.API.Controllers.RegionsController.GetAll (WebApi2.API) in 68.5171ms
+2024-07-19 17:02:10.767 +05:30 [INF] Executed endpoint 'WebApi2.API.Controllers.RegionsController.GetAll (WebApi2.API)'
+2024-07-19 17:02:10.777 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7087/api/Regions - - - 200 - application/json;+charset=utf-8 210.5775ms

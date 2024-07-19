@@ -1,0 +1,19 @@
+2024-07-19 16:54:08.480 +05:30 [INF] User profile is available. Using 'C:\Users\RABHDEEPSINGH\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-07-19 16:54:08.806 +05:30 [INF] Now listening on: https://localhost:7087
+2024-07-19 16:54:08.807 +05:30 [INF] Now listening on: http://localhost:5294
+2024-07-19 16:54:08.812 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2024-07-19 16:54:08.814 +05:30 [INF] Hosting environment: Development
+2024-07-19 16:54:08.815 +05:30 [INF] Content root path: C:\Users\RABHDEEPSINGH\source\repos\WebApi2.API\WebApi2.API\
+2024-07-19 16:54:10.169 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7087/swagger/index.html - -
+2024-07-19 16:54:10.508 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7087/swagger/index.html - - - 200 - text/html;charset=utf-8 344.6297ms
+2024-07-19 16:54:10.532 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7087/_framework/aspnetcore-browser-refresh.js - -
+2024-07-19 16:54:10.532 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7087/_vs/browserLink - -
+2024-07-19 16:54:10.540 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7087/_framework/aspnetcore-browser-refresh.js - - - 200 13758 application/javascript;+charset=utf-8 8.2979ms
+2024-07-19 16:54:10.586 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7087/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 54.1497ms
+2024-07-19 16:54:10.691 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7087/swagger/v1/swagger.json - -
+2024-07-19 16:54:10.832 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7087/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 140.9347ms
+2024-07-19 16:54:16.937 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7087/api/Regions - -
+2024-07-19 16:54:17.306 +05:30 [INF] Authorization failed. These requirements were not met:
+RolesAuthorizationRequirement:User.IsInRole must be true for one of the following roles: (Reader)
+2024-07-19 16:54:17.317 +05:30 [INF] AuthenticationScheme: Bearer was challenged.
+2024-07-19 16:54:17.319 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7087/api/Regions - - - 401 0 - 381.8546ms
